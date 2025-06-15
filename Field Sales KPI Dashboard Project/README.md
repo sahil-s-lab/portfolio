@@ -35,9 +35,9 @@ See [`SQL/field_sales_activities.sql`](./SQL/field_sales_activities.sql)
 
 ## 📈 Sample Output
 
-![Dashboard Preview](./Images/dashboard_preview.png)
-
-> *Screenshot from Excel Dashboard: Top reps, activity by channel, opportunity generation trends*
+<p align="center">
+  <img src="https://i.imgur.com/SaJbWvn.png" alt="Excel Dashboard" width="1000"/>
+</p>
 
 ---
 
