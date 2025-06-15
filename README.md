@@ -35,7 +35,7 @@ As a firm believer in leveraging technical acumen alongside powerful storytellin
 ---
 ## 📄 Resume & Contact
 
-- [📄 Download Resume (PDF)](./Sahil_Singh_Resume.pdf)
+- [📄 Download Resume (PDF)](./Sahil's_Resume.pdf)
 - [🔗 LinkedIn](https://www.linkedin.com/in/sahil95/)
 - [📬 Email](mailto:sahil95@live.ca)
 
