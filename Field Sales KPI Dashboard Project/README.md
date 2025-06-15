@@ -29,7 +29,7 @@ To evaluate the effectiveness and coverage of Field Sales Representatives by tra
   - Separate "In Territory", "Foreign Territory", and "Unassigned"
 - **Aggregations** summarize by activity type and sales rep
 
-See [`SQL/field_sales_activities.sql`](./SQL/field_sales_activities.sql)
+See [ [`Field_Activity_Query_v1.2.sql`](./Field_Activity_Query_v1.2.sql)
 
 ---
 
