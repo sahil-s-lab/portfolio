@@ -78,15 +78,14 @@ Martech Tools (Campaign Execution)
 
 ## 🔄 Automated Lead Distribution System
 
-**SQL-Based Smart Allocation** (`auto_top_up_v3.sql`):
-- **Recursive CTEs** to identify target campaigns and available rep capacity
-- **Dynamic lead allocation** based on performance metrics and territory assignments
-- **Capacity constraints** preventing overallocation across territories
+This system automates lead delivery by aligning incoming prospects to the correct sales rep based on pre-defined territory boundaries and rep capacity rules.
 
-**Campaign Performance Tracking** (`campaign_reporting.sql`):
-- **Multi-channel attribution** tracking leads through opportunity lifecycle
-- **Territory-based performance metrics** including contact rates and conversion
-- **Revenue attribution** across product categories by geographic region
+- Territory matching: Each lead is assigned using postal code logic tied to territory definitions.
+- Rep capacity checks: Allocation respects thresholds to avoid overloading (max lead count, new lead limits, pipeline balance).
+- Performance-based allocation: Leads are prioritized to reps with higher contact success and balanced pipelines.
+- SQL logic-driven: Entire process powered by recursive CTEs and dynamic queries in PostgreSQL (`auto_top_up_v3.sql`).
+
+This ensures fair, efficient, and strategic lead distribution, enhancing conversion potential across all sales regions.
 
 ---
 
