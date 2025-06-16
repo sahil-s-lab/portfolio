@@ -56,5 +56,5 @@ The report was generated automatically each morning and distributed to regional 
 
 ## 🔒 Disclaimer
 
-Data shown here is **anonymized** and **synthetic** for demonstration purposes. No confidential business information is shared.
+Data shown here is anonymized and synthetic for demonstration purposes. No confidential business information is shared.
 
