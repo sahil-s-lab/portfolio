@@ -46,16 +46,16 @@ Martech Tools (Campaign Execution)
 ## 🧾 SQL Logic Overview
 
 *Auto Top-Up System*
-- **Recursive CTEs** to identify target campaigns and available capacity
-- **Dynamic lead allocation** based on rep performance metrics (activity ratios, pipeline health)
-- **Territory matching** using postal code assignments
-- **Capacity constraints** preventing overallocation (max 250 total, 30 new, 55% in-progress ratio)
+- Recursive CTEs to identify target campaigns and available capacity
+- Dynamic lead allocation based on rep performance metrics (activity ratios, pipeline health)
+- Territory matching using postal code assignments
+- Capacity constraints preventing overallocation (max 250 total, 30 new, 55% in-progress ratio)
 
 *Campaign Reporting System*
-- **Multi-channel attribution** tracking leads through opportunity lifecycle
-- **Performance metrics** including RPC (Right Party Contact) analysis
-- **Revenue attribution** across wireless/wireline product categories
-- **Stage duration tracking** for opportunity pipeline health
+- Multi-channel attribution tracking leads through opportunity lifecycle
+- Performance metrics including RPC (Right Party Contact) analysis
+- Revenue attribution across wireless/wireline product categories
+- Stage duration tracking for opportunity pipeline health
 
 📂 View the full scripts: [`auto_top_up_v3.sql`](./auto_top_up_v3.sql) | [`campaign_reporting.sql`](./campaign_reporting.sql)
 
