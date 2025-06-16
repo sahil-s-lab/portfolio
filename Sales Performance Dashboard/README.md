@@ -1,4 +1,4 @@
-# National Sales Performance Dashboard
+# Sales Performance Dashboard
 
 This project analyzes the sales funnel performance across all B2B teams, including Field Sales, National Inside Sales, and Channel Partners. It draws from Oracle-based sales data to monitor pipeline health and identify potential bottlenecks in opportunity conversion.
 
