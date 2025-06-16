@@ -51,6 +51,6 @@ See [`Field_Activity_Query_v1.2.sql`](./Field_Activity_Query_v1.2.sql)
 
 ## 🔒 Disclaimer
 
-Data shown here is **anonymized** and **synthetic** for demonstration purposes. No confidential business information is shared.
+Data shown here is anonymized and synthetic for demonstration purposes. No confidential business information is shared.
 
 
