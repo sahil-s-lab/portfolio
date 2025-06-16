@@ -6,12 +6,7 @@ This project delivers a daily call activity snapshot for the B2B National Inside
 
 ## 📊 Objective
 
-To keep the inside sales team accountable by tracking:
-- Daily number of calls made
-- Breakdown of call types (base, prospecting, follow-ups, proposals)
-- Volume of new opportunities created
-
-The report was generated automatically each morning and distributed to regional sales managers.
+To keep the inside sales team accountable by tracking daily number of calls made, breakdown of call types (base, prospecting, follow-ups, proposals, and the volume of new opportunities created. The report was generated automatically each morning and distributed to regional sales managers.
 
 ---
 
