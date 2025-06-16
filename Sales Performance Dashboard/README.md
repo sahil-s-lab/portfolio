@@ -31,9 +31,7 @@ This dashboard enabled data-driven forecasting and territory optimization.
 - Grouped by stage and sales region
 - Included metrics for stage aging, drop-off rates, and conversion timing
 
-📂 View the full SQL scripts here: [`SQL/`](./SQL/)
-
-> 📌 *Note: Files were unzipped from `SQL.zip` and organized into this folder.*
+📂 View the full SQL scripts attached in this repo
 
 ---
 
