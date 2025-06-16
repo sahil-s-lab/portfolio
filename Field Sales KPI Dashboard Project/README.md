@@ -43,9 +43,9 @@ See [`Field_Activity_Query_v1.2.sql`](./Field_Activity_Query_v1.2.sql)
 
 ## 🧠 Key Insights
 
-- Field reps operating outside assigned territories were flagged.
-- "Door Knock" and "Face-to-Face" meetings were leading activity types among top performers.
-- Some regions consistently underperformed on opportunity creation, suggesting a mismatch in territory coverage.
+- Field reps operating outside assigned territories were flagged
+- "Door Knock" and "Face-to-Face" meetings were leading activity types among top performers
+- Some regions consistently underperformed on opportunity creation, suggesting a mismatch in territory coverage
 
 ---
 
