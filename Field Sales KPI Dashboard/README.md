@@ -23,11 +23,11 @@ To evaluate the effectiveness and coverage of Field Sales Representatives by tra
 
 ## 🧾 SQL Logic Overview
 
-- **CTEs** used to:
+- CTEs used to:
   - Match task postal codes to assigned territories
   - Filter and classify task types
   - Separate "In Territory", "Foreign Territory", and "Unassigned"
-- **Aggregations** summarize by activity type and sales rep
+- Aggregations summarize by activity type and sales rep
 
 See [`Field_Activity_Query_v1.2.sql`](./Field_Activity_Query_v1.2.sql)
 
