@@ -6,7 +6,7 @@ This project analyzes field sales activity performance using Salesforce task and
 
 ## 📊 Objective
 
-To evaluate the effectiveness and coverage of Field Sales Representatives by tracking their activities (door knocks, meetings, emails, etc.) against their assigned territories, and to highlight new opportunity generation across regions.
+To evaluate the effectiveness and coverage of Field Sales Representatives by tracking their activities (door knocks, meetings, emails, etc.) against their assigned territories, and to highlight new opportunity generation across regions. The report was generated automatically each morning and distributed to regional sales managers.
 
 ---
 
