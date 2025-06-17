@@ -6,12 +6,7 @@ This project analyzes the sales funnel performance across all B2B teams, includi
 
 ## 📊 Objective
 
-To provide executive and regional sales leadership with a real-time view of:
-- Total pipeline volume by stage
-- Opportunity velocity and aging
-- Conversion funnel trends across all teams
-
-This dashboard enabled data-driven forecasting and territory optimization.
+To provide a daily snapshot of opportunity volume and progression through the B2B sales funnel, enabling leadership to monitor conversion rates, identify pipeline bottlenecks, and support proactive revenue forecasting.
 
 ---
 
