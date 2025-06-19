@@ -109,25 +109,10 @@ The territory model enabled data-driven strategic planning across multiple initi
 
 ## 🧠 Key Insights & Business Impact
 
-**Territory Optimization:**
-- Geographic segmentation revealed coverage gaps and over-concentration areas
-- Power BI visualizations enabled strategic territory boundary adjustments
-- Market opportunity sizing supported resource allocation decisions
-
-**Operational Efficiency:**
-- Automated lead distribution prevented rep overload and improved conversion rates
-- Smart capacity management based on individual and territory performance metrics
-- Streamlined campaign execution through integrated martech pipeline
-
-**Strategic Planning:**
-- Territory model directly informed go-to-market strategy for new cable products
-- Headcount impact analysis supported data-driven expansion decisions  
-- Cross-product opportunity tracking enabled better bundling strategies across territories
-
-**Measurable Results:**
-- Contributed to B2B penetration rate growth over 12-month period
-- Improved lead-to-opportunity conversion through optimized territory assignments
-- Enhanced strategic decision-making through predictive modeling capabilities
+- Geographic segmentation identified under-served markets and optimized sales coverage  
+- Automated lead distribution improved conversion by aligning leads with rep capacity and performance  
+- Insights from the model supported new product launches and strategic headcount planning  
+- The initiative contributed to measurable gains in B2B penetration over 12 months  
 
 ---
 
