@@ -3,7 +3,7 @@ description: Jekyll theme for a beautiful online CV
 baseurl: ""
 url: https://piazzai.github.io/cvless
 
-theme: cvless
+theme: jekyll-theme-cvless
 
 # site settings
 taglong: Jekyll theme for a beautiful online CV
