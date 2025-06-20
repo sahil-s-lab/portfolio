@@ -1,44 +1,14 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: ""
+description: ""
 baseurl: ""
-url: https://piazzai.github.io/cvless
+url: ""
 
-theme: cvless
-
-# site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-cv: true
-
-# author settings
-author:
-  name: Sahil Singh
-  email: sahil95@live.ca
-photo: /assets/img/headshot.jpg
-address: blank
-phone: +1 647 783 1123
-
-# profile links
-profile:
-  facebook: https://www.facebook.com/username
-  x: https://x.com/username
-  mastodon: https://mastodon.social/@username
-  bluesky: https://bsky.app/profile/username.bsky.social
-  instagram: https://www.instagram.com/username
-  linkedin: https://www.linkedin.com/in/username
-  xing: https://www.xing.com/profile/username
-  stackoverflow: https://stackoverflow.com/users/0000000/username
-  medium: https://medium.com/@username
-  github: https://github.com/username
-
-# build settings
-permalink: pretty
 exclude:
+  - demo/
+  - cvless.gemspec
   - LICENSE
   - README.md
-  - Gemfile
-  - vendor/
-  - docker-compose.yml
+  - screenshot.png
 
 plugins:
   - jekyll-feed
@@ -48,4 +18,18 @@ plugins:
   - jekyll-sitemap
 
 sass:
+  style: compressed
   sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
