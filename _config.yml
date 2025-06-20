@@ -1,5 +1,51 @@
-title: Sahil Singh
-logo: /assets/img/headshot.jpg
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+title: cvless
+description: Jekyll theme for a beautiful online CV
+baseurl: ""
+url: https://piazzai.github.io/cvless
+
+theme: cvless
+
+# site settings
+taglong: Jekyll theme for a beautiful online CV
+tagshort: Jekyll theme
+cv: true
+
+# author settings
+author:
+  name: Sahil Singh
+  email: sahil95@live.ca
+photo: /assets/img/headshot.jpg
+address: blank
+phone: +1 647 783 1123
+
+# profile links
+profile:
+  facebook: https://www.facebook.com/username
+  x: https://x.com/username
+  mastodon: https://mastodon.social/@username
+  bluesky: https://bsky.app/profile/username.bsky.social
+  instagram: https://www.instagram.com/username
+  linkedin: https://www.linkedin.com/in/username
+  xing: https://www.xing.com/profile/username
+  stackoverflow: https://stackoverflow.com/users/0000000/username
+  medium: https://medium.com/@username
+  github: https://github.com/username
+
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+  - docker-compose.yml
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
