@@ -1,6 +1,6 @@
 # Hi, I'm Sahil!
 
-[Data Analyst](mailto:sahil95@live.ca), [MMA Graduate](https://www.linkedin.com/in/sahil95), SQL & Python Enthusiast
+
 
 ## About This Portfolio
 
@@ -8,39 +8,37 @@ This repository showcases my data analytics projects across business intelligenc
 
 ## 📁 Projects
 
-### [B2B Territory Model](./B2B%20Territory%20Model/)
-**PostgreSQL • Power BI • Salesforce**  
-- Automated lead distribution system that contributed to measurable B2B growth
-- Features territory mapping, capacity-based allocation, and performance dashboards
+[B2B Territory Optimization](./B2B%20Territory%20Model/)<br>
+_PostgreSQL • Power BI • Salesforce_ <br>
+Designed and implemented a dynamic lead distribution system that improved B2B sales coverage and growth. Capacity-based territory mapping, allocation logic, and integrated performance dashboards
 
-### [Field Sales KPI Analysis](./Field%20Sales%20KPI%20Analysis/)
-**PostgreSQL • Excel • Salesforce**  
-- Daily activity tracking for 50+ field sales reps monitoring territory compliance, door-knocks, meetings, and opportunity generation
+[Field Sales KPI Tracking](./Field%20Sales%20KPI%20Analysis/)<br>
+_PostgreSQL • Excel • Salesforce_ <br>
+Built an operational tracking model for daily field rep activity across 50+ users. Enabled compliance monitoring, rep performance visibility, and territory-level insights
 
-### [Inside Sales KPI Dashboard](./Inside%20Sales%20KPI%20Dashboard/)
-**PostgreSQL • Excel • Salesforce**  
-- Morning call activity reports for National Inside Sales team tracking call types, performance metrics, and new opportunity creation
+[Inside Sales Dashboard](./Inside%20Sales%20KPI%20Dashboard/)<br>
+_PostgreSQL • Excel • Salesforce_ <br>
+Developed a call performance dashboard for national inside sales teams delivering daily insights on outreach activity, conversion rates, and rep efficiency
 
-### [Kaggle Competition - House Prices](./Kaggle%20Competition%20-%20House%20Prices/)
-**Python • scikit-learn • XGBoost**  
-- Advanced regression modeling achieving top 16th percentile (771/4,779 teams); performs FE, stacked ensemble models, and comprehensive preprocessing
+[Kaggle Competition: House Prices – Advanced Regression Techniques](./Kaggle%20Competition%3A%20House%20Prices%20-%20Advanced%20Regression%20Techniques/)<br>
+_Python • scikit-learn • XGBoost_ <br>
+Top 16% finish with focus on feature engineering, model stacking, and cross-validation strategies
 
-### [National Sales Performance Dashboard](./National%20Sales%20Performance%20Dashboard/)
-**Oracle SQL • Excel**  
-- Executive sales funnel analysis across all B2B channels monitoring pipeline health, conversion rates, and revenue forecasting
+[National Sales Performance Overview](./National%20Sales%20Performance%20Dashboard/)<br>
+_Oracle SQL • Excel_ <br>
+B2B executive funnel analytics: summarizing sales funnel health and forecasts across all B2B channels
 
-## 🛠️ Technical Skills
-**Languages:** SQL, Python, R  
-**Tools:** PostgreSQL, Power BI, Excel, Salesforce, Tableau  
-**Specialties:** Business Intelligence, Sales Analytics, Predictive Modeling
-
+---
 
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="SahilSingh | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeacrobatreader.svg" />][resume]
 [<img align="left" alt="SahilSingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SahilSingh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="SahilSingh | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubpages.svg" />][portfolio]
 
-[resume]: ./Sahil's%20Resume.pdf
-[linkedin]: https://linkedin.com/in/sahil95
-[email]: mailto:sahil95@live.ca
+[resume]: ./Sahil's%20Resume.pdf  
+[linkedin]: https://linkedin.com/in/sahil95  
+[email]: mailto:sahil95@live.ca  
+[portfolio]: https://sahil-s-lab.github.io/portfolio/
+
