@@ -2,10 +2,10 @@ title: Sahil Singh
 email: sahil95@live.ca
 description: >-
   Brief description about you or the portfolio.
+  
 baseurl: "" 
 url: "https://sahil-s-lab.github.io/portfolio/" 
 
-markdown: kramdown
 theme: null 
 plugins:
   - jekyll-feed
