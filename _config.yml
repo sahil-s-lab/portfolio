@@ -1,12 +1,31 @@
 title: Sahil Singh
 email: sahil95@live.ca
-description: >-
-  Brief description about you or the portfolio.
-  
+description: SAHIL WAS HERE
 baseurl: "" 
 url: "https://sahil-s-lab.github.io/portfolio/" 
 
-theme: null 
+theme: cvless
+
+# site settings
+taglong: Jekyll theme for a beautiful online CV
+tagshort: Jekyll theme
+cv: true
+
+# author settings
+author:
+  name: Place Holder
+  email: username@domain.com
+photo: assets/files/photo.jpg
+address: Foobar Hall 1.23
+phone: +1 234 567 890
+
+# profile links
+profile:
+  linkedin: https://linkedin.com/in/sahil95
+
+# build settings
+permalink: pretty
+
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -15,18 +34,6 @@ plugins:
   - jekyll-sitemap
 
 sass:
-  style: compressed
+  #style: compressed
   sourcemap: never
-
-feed:
-  path: atom.xml
-
-autopages:
-  enabled: false
-
-pagination:
-  enabled: true
-  per_page: 1
-  sort_reverse: true
-  permalink: /:num/
-  title: ":title &middot; Page :num"
+  
