@@ -27,6 +27,9 @@ profile:
 # build settings
 permalink: pretty
 
+include:
+  - "**/*.sql"
+  
 plugins:
   - jekyll-feed
   - jekyll-gist
