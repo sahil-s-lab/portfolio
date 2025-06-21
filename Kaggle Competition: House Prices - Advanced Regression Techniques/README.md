@@ -46,7 +46,7 @@ Build a predictive regression model to estimate home prices in Ames, Iowa using 
   - File paths are platform-independent
   - Repo includes train, test, and prediction CSVs for replication
 
-📂 View the full notebook here: [`House_Prices_Advanced_Regression_Techniques_Stacked_16th_percentile.ipynb`](./House_Prices_Advanced_Regression_Techniques_Stacked_16th_percentile.ipynb)
+📂 View the full notebook here: <a href="./House_Prices_Advanced_Regression_Techniques_Stacked_16th_percentile.ipynb" download>House_Prices_Advanced_Regression_Techniques_Stacked_16th_percentile.ipynb</a>
 
 ---
 
