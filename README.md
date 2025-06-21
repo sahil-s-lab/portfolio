@@ -35,7 +35,7 @@ B2B executive funnel analytics: summarizing sales funnel health and forecasts ac
 [<img align="left" alt="SahilSingh | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeacrobatreader.svg" />][resume]
 [<img align="left" alt="SahilSingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SahilSingh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="SahilSingh | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubpages.svg" />][portfolio]
+[<img align="left" alt="SahilSingh | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefoxbrowser.svg" />][portfolio]
 
 [resume]: ./Sahil's%20Resume.pdf  
 [linkedin]: https://linkedin.com/in/sahil95  
