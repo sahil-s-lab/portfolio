@@ -7,17 +7,17 @@ url: "https://sahil-s-lab.github.io/portfolio/"
 theme: null
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Data Analyst with a strategic mindset and a passion for turning complexity into clarity
+tagshort: Data Analyst
 cv: true
 
 # author settings
 author:
   name: Place Holder
   email: username@domain.com
-photo: assets/files/photo.jpg
+photo: assets/img/headshot.jpg
 address: Foobar Hall 1.23
-phone: +1 234 567 890
+phone: +1 647 783 1123
 
 # profile links
 profile:
