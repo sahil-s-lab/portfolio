@@ -2,13 +2,31 @@ title: Sahil Singh
 email: sahil95@live.ca
 description: >-
   Brief description about you or the portfolio.
-baseurl: "" # Leave this empty unless you're using a project page
+baseurl: "" 
 url: "https://sahil-s-lab.github.io/portfolio/" 
 
 markdown: kramdown
 theme: null 
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
   - jekyll-seo-tag
+  - jekyll-sitemap
 
-permalink: pretty
+sass:
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
