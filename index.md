@@ -3,16 +3,55 @@ layout: home
 title: Home
 ---
 
-# About
+# 👋 Hi, I'm Sahil!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Data Analyst**, [MMA Graduate](https://www.linkedin.com/in/sahil95), SQL & Python Enthusiast
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+---
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+## 📌 About This Portfolio
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This site showcases my data analytics projects in business intelligence, sales optimization, and predictive modeling.  
+Each project folder includes SQL scripts, business insights, and documentation.
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+---
 
-{% include archive.html %}
+## 📁 Featured Projects
+
+### 🔹 B2B Territory Model
+**PostgreSQL • Power BI • Salesforce**  
+Automated lead distribution system enabling measurable B2B growth  
+→ Territory mapping, capacity allocation, and performance dashboards
+
+### 🔹 Field Sales KPI Analysis
+**PostgreSQL • Excel • Salesforce**  
+Tracked daily activity of 50+ field reps — door-knocks, meetings, and opportunity generation
+
+### 🔹 Inside Sales KPI Dashboard
+**PostgreSQL • Excel • Salesforce**  
+Reported morning call activity for National Inside Sales team
+
+### 🔹 Kaggle – House Prices
+**Python • scikit-learn • XGBoost**  
+Top 16% finish with stacked ensemble models, feature engineering, and preprocessing
+
+### 🔹 National Sales Performance Dashboard
+**Oracle SQL • Excel**  
+B2B executive funnel analytics: pipeline health, conversion rates, and forecasts
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** SQL, Python, R  
+**Tools:** PostgreSQL, Power BI, Excel, Salesforce, Tableau  
+**Specialties:** Business Intelligence, Sales Analytics, Predictive Modeling
+
+---
+
+## 📬 Connect With Me
+
+- [📄 Resume (PDF)](./Sahil's%20Resume.pdf)
+- [📧 Email](mailto:sahil95@live.ca)
+- [🔗 LinkedIn](https://linkedin.com/in/sahil95)
+
