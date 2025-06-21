@@ -9,13 +9,13 @@ theme: null
 # site settings
 taglong: Data Analyst with a strategic mindset and a passion for turning complexity into clarity
 tagshort: Data Analyst
-cv: true
+cv: false
 
 # author settings
 author:
   name: Place Holder
   email: username@domain.com
-photo: assets/img/headshot2.jpg
+photo: assets/img/headshot3.jpg
 address: Foobar Hall 1.23
 phone: +1 647 783 1123
 
