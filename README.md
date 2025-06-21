@@ -6,7 +6,7 @@
 
 This repository showcases my data analytics projects across business intelligence, sales optimization, and predictive modeling. Each folder contains complete project documentation with SQL scripts, analysis, and business insights.
 
-## 📁 Projects
+## Projects
 
 [B2B Territory Optimization](./B2B%20Territory%20Model/)<br>
 _PostgreSQL • Power BI • Salesforce_ <br>
