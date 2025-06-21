@@ -3,11 +3,13 @@ layout: home
 title: Home
 ---
 <style>
-.main-content {
-  max-width: 900px; /* default is around 650px */
+body .wrapper {
+  max-width: 900px;
+  margin: 0 auto;
 }
 </style>
 ---
+
 # About me
 
 A people-first problem solver with a "Swiss army knife" approach to analytics, I blend 7+ years of experience in data, strategy, and cross-functional business domains — finance, marketing, and sales. I believe that powerful insights stem not just from technical depth, but from understanding context and telling the right story with data.
@@ -32,7 +34,7 @@ Built an operational tracking model for daily field rep activity across 50+ user
 _PostgreSQL • Excel • Salesforce_ <br>
 Developed a call performance dashboard for national inside sales teams delivering daily insights on outreach activity, conversion rates, and rep efficiency
 
-[Kaggle Competition: House Prices](./Kaggle%20Competition%20-%20House%20Prices/)<br>
+[Kaggle Competition: House Prices – Advanced Regression Techniques](./Kaggle%20Competition%20-%20House%20Prices%20–%20Advanced%20Regression%20Modeling/)<br>
 _Python • scikit-learn • XGBoost_ <br>
 Top 16% finish with focus on feature engineering, model stacking, and cross-validation strategies
 
