@@ -57,7 +57,9 @@ Martech Tools (Campaign Execution)
 - Revenue attribution across wireless/wireline product categories
 - Stage duration tracking for opportunity pipeline health
 
-📂 View the full scripts: [`auto_top_up_v3.sql`](./auto_top_up_v3.sql) | [`campaign_reporting.sql`](./campaign_reporting.sql)
+📂 View the full scripts:
+<a href="./auto_top_up_v3.sql" download>auto_top_up_v3.sql</a> |
+<a href="./campaign_reporting.sql" download>campaign_reporting.sql</a>
 
 ---
 
