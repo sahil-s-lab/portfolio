@@ -21,28 +21,23 @@ Explore the selected projects below.
 # Projects
 
 [B2B Territory Optimization](./B2B%20Territory%20Model/)<br>
-_PostgreSQL • Power BI • Salesforce_
-
-Designed and implemented a dynamic lead distribution system that improved B2B sales coverage and growth. Capacity-based territory mapping, allocation logic, and integrated performance dashboards.
+_PostgreSQL • Power BI • Salesforce_ <br>
+Designed and implemented a dynamic lead distribution system that improved B2B sales coverage and growth. Capacity-based territory mapping, allocation logic, and integrated performance dashboards
 
 [Field Sales KPI Tracking](./Field%20Sales%20KPI%20Analysis/)<br>
-_PostgreSQL • Excel • Salesforce_
-
-Built an operational tracking model for daily field rep activity across 50+ users. Enabled compliance monitoring, rep performance visibility, and territory-level insights.
+_PostgreSQL • Excel • Salesforce_ <br>
+Built an operational tracking model for daily field rep activity across 50+ users. Enabled compliance monitoring, rep performance visibility, and territory-level insights
 
 [Inside Sales Dashboard](./Inside%20Sales%20KPI%20Dashboard/)<br>
-_PostgreSQL • Excel • Salesforce_
-
-Developed a call performance dashboard for national inside sales teams delivering daily insights on outreach activity, conversion rates, and rep efficiency.
+_PostgreSQL • Excel • Salesforce_ <br>
+Developed a call performance dashboard for national inside sales teams delivering daily insights on outreach activity, conversion rates, and rep efficiency
 
 [Kaggle Competition: House Prices](./Kaggle%20Competition%20-%20House%20Prices/)<br>
-_Python • scikit-learn • XGBoost_
-
-Top 16% finish with focus on feature engineering, model stacking, and cross-validation strategies.
+_Python • scikit-learn • XGBoost_ <br>
+Top 16% finish with focus on feature engineering, model stacking, and cross-validation strategies
 
 [National Sales Performance Overview](./National%20Sales%20Performance%20Dashboard/)<br>
-_Oracle SQL • Excel_
-
-B2B executive funnel analytics: summarizing sales funnel health and forecasts across all B2B channels.
+_Oracle SQL • Excel_ <br>
+B2B executive funnel analytics: summarizing sales funnel health and forecasts across all B2B channels
 
 ---
