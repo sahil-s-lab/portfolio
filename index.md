@@ -15,7 +15,7 @@ Explore the selected projects below.
 
 # Projects
 
-**[**B2B Territory Optimization**](./B2B%20Territory%20Model/)**<br>
+[B2B Territory Optimization](./B2B%20Territory%20Model/)<br>
 _PostgreSQL • Power BI • Salesforce_
 Designed and implemented a dynamic lead distribution system that improved B2B sales coverage and growth. Capacity-based territory mapping, allocation logic, and integrated performance dashboards
 
