@@ -13,66 +13,32 @@ Explore the selected projects below.
 
 ---
 
-## Projects
+# Projects
 
-### B2B Territory Optimization  
-**PostgreSQL • Power BI • Salesforce**  
-Designed and implemented a dynamic lead distribution system that improved B2B sales coverage and growth.  
-→ Capacity-based territory mapping, allocation logic, and integrated performance dashboards
-
----
-
-### Field Sales KPI Tracking  
-**PostgreSQL • Excel • Salesforce**  
-Built an operational tracking model for daily field rep activity across 50+ users.  
-→ Enabled compliance monitoring, rep performance visibility, and territory-level insights
+**B2B Territory Optimization**
+_PostgreSQL • Power BI • Salesforce_
+Designed and implemented a dynamic lead distribution system that improved B2B sales coverage and growth. Capacity-based territory mapping, allocation logic, and integrated performance dashboards
 
 ---
 
-### Inside Sales Dashboard  
-**PostgreSQL • Excel • Salesforce**  
-Developed a call performance dashboard for national inside sales teams.  
-→ Delivered daily insights on outreach activity, conversion rates, and rep efficiency
+**Field Sales KPI Tracking**
+_PostgreSQL • Excel • Salesforce_  
+Built an operational tracking model for daily field rep activity across 50+ users. Enabled compliance monitoring, rep performance visibility, and territory-level insights
+
+
+**Inside Sales Dashboard**
+_PostgreSQL • Excel • Salesforce_ 
+Developed a call performance dashboard for national inside sales teams delivering daily insights on outreach activity, conversion rates, and rep efficiency
+
+
+**Predictive Modeling – House Prices (Kaggle)**
+_Python • scikit-learn • XGBoost_
+Top 16% finish with focus on feature engineering, model stacking, and cross-validation strategies
 
 ---
 
-### Predictive Modeling – House Prices (Kaggle)  
-**Python • scikit-learn • XGBoost**  
-Achieved a top-16% finish using ensemble models and rigorous preprocessing.  
-→ Focused on feature engineering, model stacking, and cross-validation strategies
-
----
-
-### National Sales Performance Overview  
-**Oracle SQL • Excel**  
-Created an executive dashboard summarizing sales funnel health and forecasts across all B2B channels.  
-→ B2B executive funnel analytics: pipeline health, conversion rates, and forecasts
-
----
-
-
----
-
-## 📁 Featured Projects
-
-### 🔹 B2B Territory Model
-**PostgreSQL • Power BI • Salesforce**  
-Automated lead distribution system enabling measurable B2B growth  
-→ Territory mapping, capacity allocation, and performance dashboards
-
-### 🔹 Field Sales KPI Analysis
-**PostgreSQL • Excel • Salesforce**  
-Tracked daily activity of 50+ field reps — door-knocks, meetings, and opportunity generation
-
-### 🔹 Inside Sales KPI Dashboard
-**PostgreSQL • Excel • Salesforce**  
-Reported morning call activity for National Inside Sales team
-
-### 🔹 Kaggle – House Prices
-**Python • scikit-learn • XGBoost**  
-Top 16% finish with stacked ensemble models, feature engineering, and preprocessing
-
-### 🔹 National Sales Performance Dashboard
-**Oracle SQL • Excel**  
+**National Sales Performance Overview**
+_Oracle SQL • Excel_ 
+B2B executive funnel analytics: summarizing sales funnel health and forecasts across all B2B channels 
 
 ---
