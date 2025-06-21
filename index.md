@@ -12,9 +12,7 @@ body .wrapper {
 
 # About me
 
-A people-first problem solver with a "Swiss army knife" approach to analytics, I blend 7+ years of experience in data, strategy, and cross-functional business domains — finance, marketing, and sales. I believe that powerful insights stem not just from technical depth, but from understanding context and telling the right story with data.
-
-This portfolio is a brief window into the kinds of problems I’ve helped solve. From territory optimization to performance dashboards and predictive modeling — each project highlights how I've applied data to drive decisions, shape strategy, and deliver impact.
+A people-first problem solver with a "Swiss army knife" approach to analytics, I bring 7+ years of experience across data, strategy, and cross-functional business domains—including finance, marketing, and sales. I believe meaningful insights come from blending technical depth with business context and clear storytelling. This portfolio highlights how I’ve used data to drive decisions, shape strategy, and deliver impact across a range of real-world challenges.
 
 Explore the selected projects below.
 
