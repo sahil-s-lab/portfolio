@@ -5,11 +5,11 @@ title: CV
 
 # Sahil Singh, MMA
 
-**Address:** 5-191 Université Ave • Moncton, NB • E1C 5K4  
-**Phone:** (647) 783-1123  
-**Email:** sahil95@live.ca  
-**LinkedIn:** [linkedin.com/in/sahil95](https://www.linkedin.com/in/sahil95)  
-**Portfolio:** [sahil-s-lab.github.io/portfolio](https://sahil-s-lab.github.io/portfolio/)
+**Address** 5-191 Université Ave • Moncton, NB • E1C 5K4  
+**Phone** (647) 783-1123  
+**Email** sahil95@live.ca  
+**LinkedIn** [linkedin.com/in/sahil95](https://www.linkedin.com/in/sahil95)  
+**Portfolio** [sahil-s-lab.github.io/portfolio](https://sahil-s-lab.github.io/portfolio/)
 
 ---
 
