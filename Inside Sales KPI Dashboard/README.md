@@ -28,7 +28,7 @@ To keep the inside sales team accountable by tracking daily number of calls made
 - Used `UNION ALL` to blend task and opportunity data for one unified dataset
 - Filtered by relevant sales channels only (Lake Shore, Small - NIS, Field Sales)
 
-📂 View the full script here: [`Direct Channels KPI Report .sql`](./Direct%20Channels%20KPI%20Report%20.sql)
+📂 View the full script here: <a href="./Direct%20Channels%20KPI%20Report%20.sql" download>Direct Channels KPI Report .sql</a><br>
 
 ---
 
