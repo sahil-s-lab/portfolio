@@ -6,7 +6,7 @@ baseurl: "" # Leave this empty unless you're using a project page
 url: "https://sahil-s-lab.github.io/portfolio/" 
 
 markdown: kramdown
-theme: null  # IMPORTANT: Do not use a built-in theme
+theme: null 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
