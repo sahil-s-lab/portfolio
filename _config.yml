@@ -4,7 +4,7 @@ description: SAHIL WAS HERE
 baseurl: "" 
 url: "https://sahil-s-lab.github.io/portfolio/" 
 
-theme: cvless
+theme: null
 
 # site settings
 taglong: Jekyll theme for a beautiful online CV
