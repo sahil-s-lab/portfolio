@@ -5,7 +5,7 @@ title: CV
 
 # Sahil Singh, MMA
 
-**Address** 5-191 Université Ave • Moncton, NB • E1C 5K4  
+**Address** Open to relocation 
 **Phone** (647) 783-1123  
 **Email** sahil95@live.ca  
 **LinkedIn** [linkedin.com/in/sahil95](https://www.linkedin.com/in/sahil95)  
@@ -40,14 +40,14 @@ Bachelor of Business Administration, Accounting
 - Managed 30+ financial support services under IFRS and US GAAP while streamlining processes by designing four new reporting mechanisms reducing working hours by 24 annually
 
 ### Rogers
-**Senior Business Insights Analyst** | Toronto | 2020-2021
+**Senior Business Intelligence Analyst** | Toronto | 2020-2021
 - Effectively responded to COVID-19 crisis through transition of data mart tools used to host base management list ensuring timely assignments for customer contact
 - Instituted a territory-based sales coverage plan and used the insights to define the market opportunity, coordinated lead distribution, and go-to-market strategy for new products
 - Contributed to growth in B2B penetration rate within Ontario region over 12-month period through segmentation design
   - Developed analytical models to estimate the impact of different scenarios to assisting in business decision making process through linear regression models
 - Created a Pipeline Evaluation analysis tool to monitor sales agent account ownership leveraging CRM (Salesforce) data to enable effective decision-making in front-line change management project design directly maintaining WoW coverage ratios
 
-**Business Insights Analyst** | Toronto | 2018-2019
+**Business Intelligence Analyst** | Toronto | 2018-2019
 - Introducing and co-owning part of the company's small and medium business market segmentation development plan; design, implementation, and reporting on sales territory model
 - Managed marketing lead campaigns to ensure productivity capacity and sales opportunity can be actualized in accordance to activity models and channel targets; led initiatives which increased disposition rate by 59%
 - Assisted in the launch of Rogers fibre cable services in B2B space through KPI development and reporting
