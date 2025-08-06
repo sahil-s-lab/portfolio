@@ -5,7 +5,7 @@ title: CV
 
 # Sahil Singh, MMA
 
-**Address** Open to relocation 
+**Address** Open to relocation
 **Phone** (647) 783-1123  
 **Email** sahil95@live.ca  
 **LinkedIn** [linkedin.com/in/sahil95](https://www.linkedin.com/in/sahil95)  
