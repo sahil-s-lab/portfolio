@@ -84,8 +84,7 @@ Awarded to the top 10th percentile in academic achievement of the 2017 graduatin
 
 **Canadian Red Cross** | Toronto | 2022-Present  
 *Emergency Responder Team Member*
-- Deployment: Peel Asylum Seekers; provided emergency support and resources to refugees to assist with their transition and well-being
-- Actively engaged in team preparedness activities while awaiting deployment
+- Supported multiple emergency deployments, including Pimicikamak Cree Nation Wildfire Response, Georgina Pefferlaw Warming Centres, and Peel Asylum Seekers, delivering essential services, resources, and well-being support to affected populations
 
 **Amateur Martial Arts Athlete** | Toronto | 2015-Present  
 *BJJ Tournament Champion – Various*
