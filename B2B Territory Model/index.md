@@ -11,8 +11,6 @@ To maximize B2B market penetration in the Ontario region by:
 - Automating lead distribution based on territory assignments and rep capacity
 - Supporting go-to-market strategy for new product launches through predictive modeling
 
-The system contributed to measurable growth in B2B penetration rates over a 12-month period.
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -28,31 +26,12 @@ The system contributed to measurable growth in B2B penetration rates over a 12-m
 
 ---
 
-## 🏗️ Data Pipeline Architecture
-
-```
-Footprint Data (External Team) 
-    ↓
-Power Query (Territory Segmentation)
-    ↓
-Power BI (Territory Visualization)
-    ↓  
-PostgreSQL (Lead Distribution Logic)
-    ↓
-Kettle Pentaho (ETL Processing)
-    ↓
-Martech Tools (Campaign Execution)
-```
-
----
-
 ## 🧾 SQL Logic Overview
 
 *Auto Top-Up System*
-- Recursive CTEs to identify target campaigns and available capacity
-- Dynamic lead allocation based on rep performance metrics (activity ratios, pipeline health)
-- Territory matching using postal code assignments
-- Capacity constraints preventing overallocation (max 250 total, 40 new, 55% in-progress ratio)
+- Identified active campaigns with reserved members and calculated capacity per rep (40 minus current "New" status count)
+- Applied eligibility filters: total workload under 250, new leads under 30, in-progress ratio below 55%
+- Used recursive CTE to expand each rep's capacity into individual rows, then matched sequentially to reserved members for automated assignment
 
 📂 View the full script here: <a href="./auto_top_up_v3.sql" download>auto_top_up_v3.sql</a> 
 
