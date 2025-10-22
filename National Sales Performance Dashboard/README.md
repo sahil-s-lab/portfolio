@@ -17,21 +17,22 @@ This dashboard enabled data-driven forecasting and territory optimization.
 
 ## 🛠️ Tools & Technologies
 
-| Tool          | Purpose                                      |
-|---------------|-----------------------------------------------|
-| Oracle SQL    | Data extraction from ERP-backed sales systems |
-| Excel         | Funnel dashboard for executive stakeholders   |
+| Tool          | Purpose                                 |
+|---------------|------------------------------------------|
+| PostgreSQL    | Data aggregation and transformation      |
+| AWS           | Hosted PostgreSQL database               |
+| Salesforce    | CRM data source (tasks, leads, opps)     |
+| Excel         | KPI dashboard for business stakeholders  |
 
 ---
 
 ## 🧾 SQL Logic Overview
 
-- Pulled opportunity and deal data directly from Oracle-based tables
-- Filtered by team type (Field, NIS, Partner, etc.)
-- Grouped by stage and sales region
-- Included metrics for stage aging, drop-off rates, and conversion timing
+- Built cascading CTEs to filter active campaigns and join members to task/opportunity data
+- Tracked first RPC timing and call attempts by matching task creation to member assignment dates
+- Pivoted lead dispositions and opportunity stages with MRR breakdowns by product line
 
-📂 View the full SQL scripts on my GitHub repository
+📂 View the full SQL script here: [`campaign_reporting.sql`](./campaign_reporting.sql)
 
 ---
 
