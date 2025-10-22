@@ -26,20 +26,30 @@ To maximize B2B market penetration in the Ontario region by:
 
 ---
 
-## 🧾 SQL Logic Overview
+## 🧾 Territory Design Methodology
 
-*Auto Top-Up System*
-- Identified active campaigns with reserved members and calculated capacity per rep (40 minus current "New" status count)
-- Applied eligibility filters: total workload under 250, new leads under 30, in-progress ratio below 55%
-- Used recursive CTE to expand each rep's capacity into individual rows, then matched sequentially to reserved members for automated assignment
+The territory framework was built through a multi-layered segmentation approach that balanced geographic coverage with commercial opportunity:
 
-📂 View the full script here: <a href="./auto_top_up_v3.sql" download>auto_top_up_v3.sql</a> 
+**1️⃣ Data Structuring**  
+Customer records were organized by postal code (FSA prefix grouping), revenue bands using quantile segmentation to ensure even distribution of high-value accounts, NAICS industry classification for vertical specialization, and lifecycle stage to support targeted outreach strategies
+
+**2️⃣ Territory Assignment Logic**  
+Territories were defined using geographic hierarchy starting at the regional level and drilling down to Forward Sortation Area boundaries. This approach matched how field reps naturally covered their regions while ensuring complete market coverage with zero overlap between channels
+
+**3️⃣ Scenario Testing & Validation**  
+Multiple segmentation scenarios were developed and evaluated across three dimensions: total account volume per rep to balance workload, total revenue potential per territory to prevent unfair weighting, and whitespace coverage analysis to eliminate gaps in serviceable markets
+
+**4️⃣ ETL Pipeline & Automation**  
+A Kettle Pentaho pipeline was engineered to apply territory transformations and load results into both PostgreSQL (for operational queries) and Salesforce
+
+**5️⃣ Delivery & Maintenance**  
+The final model was delivered as an interactive Power BI dashboard with geospatial mapping capabilities, supported by an automated refresh process that pulled from enterprise data sources at defined intervals to maintain data accuracy as customer records evolved
 
 ---
 
-## 📈 Core Territory Visualization
+## 📈 Business Impact 
 
-### Geographic Coverage & Market Opportunity
+### Geographic Coverage & Territory Visualization
 <p align="center">
   <img src="https://i.imgur.com/H9iEFB5.png" alt="Territory Analytics Dashboard" width="1000"/>
   <br><em>Territory performance dashboard displaying market opportunity sizing and sales team allocation</em>
@@ -50,31 +60,28 @@ To maximize B2B market penetration in the Ontario region by:
   <br><em>Power BI visualization showing territorial coverage with manager assignments and market penetration analysis</em>
 </p>
 
----
+### Automated Lead Distribution System
 
-## 🔄 Automated Lead Distribution System
+This system automates lead delivery by aligning incoming prospects to the correct sales rep based on upstream defined territory boundaries and rep capacity rules. This ensures fair, efficient, and strategic lead distribution, enhancing conversion potential across all sales regions.
 
-This system automates lead delivery by aligning incoming prospects to the correct sales rep based on pre-defined territory boundaries and rep capacity rules.
+*SQL Logic Overview*
+- Identified active campaigns with reserved members and calculated capacity per rep (40 minus current "New" status count)
+- Applied eligibility filters: total workload under 250, new leads under 30, in-progress ratio below 55%
+- Used recursive CTE to expand each rep's capacity into individual rows, then matched sequentially to reserved members for automated assignment
 
-- Territory matching: Each lead is assigned using postal code logic tied to territory definitions
-- Rep capacity checks: Allocation respects thresholds to avoid overloading (max lead count, new lead limits, pipeline balance)
-- Performance-based allocation: Leads are prioritized to reps with higher contact success and balanced pipelines
+📂 View the full script here: <a href="./auto_top_up_v3.sql" download>auto_top_up_v3.sql</a> 
 
-This ensures fair, efficient, and strategic lead distribution, enhancing conversion potential across all sales regions.
-
----
-
-## 📊 Strategic Business Applications
+### Strategic Business Applications
 
 The territory model enabled data-driven strategic planning across multiple initiatives:
 
-### New Product Launch Analysis
+**New Product Launch Analysis**
 <p align="center">
   <img src="https://i.imgur.com/UIQSDux.png" alt="Cable Ramp Analysis" width="1000"/>
   <br><em>Territory-informed cable product ramp analysis supporting go-to-market strategy development</em>
 </p>
 
-### Resource Allocation Planning
+**Resource Allocation Planning**
 <p align="center">
   <img src="https://i.imgur.com/XF9Zdkf.png" alt="Headcount Impact Analysis" width="1000"/>
   <br><em>Headcount impact analysis using territory performance data to optimize sales team expansion</em>
@@ -82,7 +89,7 @@ The territory model enabled data-driven strategic planning across multiple initi
 
 ---
 
-## 🧠 Key Insights & Business Impact
+## 🧠 Key Insights
 
 - Geographic segmentation identified under-served markets and optimized sales coverage  
 - Automated lead distribution improved conversion by aligning leads with rep capacity and performance  
