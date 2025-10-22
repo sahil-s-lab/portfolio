@@ -21,6 +21,7 @@ The system contributed to measurable growth in B2B penetration rates over a 12-m
 |---------------|------------------------------------------|
 | PostgreSQL    | Territory analysis and lead distribution logic |
 | AWS           | Hosted PostgreSQL database               |
+| Power Query   | Geographic segmentation and territory creation |
 | Power BI      | Geographic visualization and territory mapping |
 | Kettle Pentaho| ETL pipeline for martech integration     |
 | Salesforce    | CRM data source and lead management      |
@@ -31,6 +32,8 @@ The system contributed to measurable growth in B2B penetration rates over a 12-m
 
 ```
 Footprint Data (External Team) 
+    ↓
+Power Query (Territory Segmentation)
     ↓
 Power BI (Territory Visualization)
     ↓  
@@ -49,17 +52,9 @@ Martech Tools (Campaign Execution)
 - Recursive CTEs to identify target campaigns and available capacity
 - Dynamic lead allocation based on rep performance metrics (activity ratios, pipeline health)
 - Territory matching using postal code assignments
-- Capacity constraints preventing overallocation (max 250 total, 30 new, 55% in-progress ratio)
+- Capacity constraints preventing overallocation (max 250 total, 40 new, 55% in-progress ratio)
 
-*Campaign Reporting System*
-- Multi-channel attribution tracking leads through opportunity lifecycle
-- Performance metrics including RPC (Right Party Contact) analysis
-- Revenue attribution across wireless/wireline product categories
-- Stage duration tracking for opportunity pipeline health
-
-📂 View the full scripts:
-<a href="./auto_top_up_v3.sql" download>auto_top_up_v3.sql</a> |
-<a href="./campaign_reporting.sql" download>campaign_reporting.sql</a>
+📂 View the full script here: <a href="./auto_top_up_v3.sql" download>auto_top_up_v3.sql</a> 
 
 ---
 
