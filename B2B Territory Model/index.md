@@ -30,19 +30,19 @@ To maximize B2B market penetration in the Ontario region by:
 
 The territory framework was built through a multi-layered segmentation approach that balanced geographic coverage with commercial opportunity:
 
-**1️⃣ Data Structuring**  
+**Data Structuring**  
 Customer records were organized by postal code (FSA prefix grouping), revenue bands using quantile segmentation to ensure even distribution of high-value accounts, NAICS industry classification for vertical specialization, and lifecycle stage to support targeted outreach strategies
 
-**2️⃣ Territory Assignment Logic**  
+**Territory Assignment Logic**  
 Territories were defined using geographic hierarchy starting at the regional level and drilling down to Forward Sortation Area boundaries. This approach matched how field reps naturally covered their regions while ensuring complete market coverage with zero overlap between channels
 
-**3️⃣ Scenario Testing & Validation**  
+**Scenario Testing & Validation**  
 Multiple segmentation scenarios were developed and evaluated across three dimensions: total account volume per rep to balance workload, total revenue potential per territory to prevent unfair weighting, and whitespace coverage analysis to eliminate gaps in serviceable markets
 
-**4️⃣ ETL Pipeline & Automation**  
+**ETL Pipeline & Automation**  
 A Kettle Pentaho pipeline was engineered to apply territory transformations and load results into both PostgreSQL (for operational queries) and Salesforce
 
-**5️⃣ Delivery & Maintenance**  
+**Delivery & Maintenance**  
 The final model was delivered as an interactive Power BI dashboard with geospatial mapping capabilities, supported by an automated refresh process that pulled from enterprise data sources at defined intervals to maintain data accuracy as customer records evolved
 
 ---
