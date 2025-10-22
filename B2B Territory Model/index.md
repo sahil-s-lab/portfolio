@@ -59,7 +59,6 @@ This system automates lead delivery by aligning incoming prospects to the correc
 - Territory matching: Each lead is assigned using postal code logic tied to territory definitions
 - Rep capacity checks: Allocation respects thresholds to avoid overloading (max lead count, new lead limits, pipeline balance)
 - Performance-based allocation: Leads are prioritized to reps with higher contact success and balanced pipelines
-- SQL logic-driven: Entire process powered by recursive CTEs and dynamic queries in PostgreSQL (`auto_top_up_v3.sql`)
 
 This ensures fair, efficient, and strategic lead distribution, enhancing conversion potential across all sales regions.
 
