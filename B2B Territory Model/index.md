@@ -60,6 +60,8 @@ The final model was delivered as an interactive Power BI dashboard with geospati
   <br><em>Power BI visualization showing territorial coverage with manager assignments and market penetration analysis</em>
 </p>
 
+<br>
+
 ### Automated Lead Distribution System
 
 This system automates lead delivery by aligning incoming prospects to the correct sales rep based on upstream defined territory boundaries and rep capacity rules. This ensures fair, efficient, and strategic lead distribution, enhancing conversion potential across all sales regions.
@@ -70,6 +72,8 @@ This system automates lead delivery by aligning incoming prospects to the correc
 - Used recursive CTE to expand each rep's capacity into individual rows, then matched sequentially to reserved members for automated assignment
 
 📂 View the full script here: <a href="./auto_top_up_v3.sql" download>auto_top_up_v3.sql</a> 
+
+<br>
 
 ### Strategic Business Applications
 
