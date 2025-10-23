@@ -4,7 +4,7 @@
 
 ## About This Portfolio
 
-This repository showcases my data analytics projects across business intelligence, sales optimization, and predictive modeling. Each folder contains complete project documentation with SQL scripts, analysis, and business insights.
+This repository showcases my data analytics projects across business intelligence, sales optimization, and predictive modeling. Each folder contains complete project documentation with SQL scripts, analysis, and business insights
 
 ## Projects
 
