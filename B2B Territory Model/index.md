@@ -31,13 +31,13 @@ To maximize B2B market penetration in the Ontario region by:
 The territory framework was built through a multi-layered segmentation approach that balanced geographic coverage with commercial opportunity:
 
 **Data Structuring**  
-Customer records were organized by postal code (FSA prefix grouping), revenue bands using quantile segmentation to ensure even distribution of high-value accounts, NAICS industry classification for vertical specialization, and lifecycle stage to support targeted outreach strategies
+Raw customer exports were transformed in Power Query using M language functions to parse and group records by postal code (FSA prefix extraction), calculate quantile-based revenue bands for even distribution of high-value accounts, map NAICS codes to vertical specializations, and classify lifecycle stage attributes
 
 **Territory Assignment Logic**  
-Territories were defined using geographic hierarchy starting at the regional level and drilling down to Forward Sortation Area boundaries. This approach matched how field reps naturally covered their regions while ensuring complete market coverage with zero overlap between channels
+Custom Power Query functions defined territory assignments using hierarchical geographic logic (Region → FSA). This approach matched how field reps naturally covered their regions while ensuring complete market coverage and eliminating cross-channel overlap
 
 **Scenario Testing & Validation**  
-Multiple segmentation scenarios were developed and evaluated across three dimensions: total account volume per rep to balance workload, total revenue potential per territory to prevent unfair weighting, and whitespace coverage analysis to eliminate gaps in serviceable markets
+Power Query aggregation queries calculated distribution metrics across multiple segmentation scenarios: total account volume per rep to balance workload, total revenue potential per territory to prevent unfair weighting, and whitespace coverage analysis to eliminate gaps in serviceable markets
 
 **ETL Pipeline & Automation**  
 A Kettle Pentaho pipeline was engineered to apply territory transformations and load results into both PostgreSQL (for operational queries) and Salesforce
