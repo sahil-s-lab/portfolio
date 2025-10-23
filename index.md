@@ -30,7 +30,7 @@ _Python • scikit-learn • XGBoost_ <br>
 Top 16% finish with focus on feature engineering, model stacking, and cross-validation strategies
 
 [National Sales Performance Overview](./National%20Sales%20Performance%20Dashboard/)<br>
-_Oracle SQL • Excel_ <br>
+_PostgreSQL • Excel • Salesforce_ <br>
 B2B executive funnel analytics: summarizing sales funnel health and forecasts across all B2B channels
 
 ---
