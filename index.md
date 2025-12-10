@@ -25,7 +25,7 @@ Built an operational tracking model for daily field rep activity across 50+ user
 _PostgreSQL • Excel • Salesforce_ <br>
 Developed a call performance dashboard for national inside sales teams delivering daily insights on outreach activity, conversion rates, and rep efficiency
 
-[Kaggle Competition: House Prices – Advanced Regression Techniques](./Kaggle%20Competition%3A%20House%20Prices%20-%20Advanced%20Regression%20Techniques/)<br>
+[Kaggle Competition: House Prices – Advanced Regression Techniques](./Kaggle%20Competition%20-%20House%20Prices%20-%20Advanced%20Regression%20Techniques/)<br>
 _Python • scikit-learn • XGBoost_ <br>
 Top 16% finish with focus on feature engineering, model stacking, and cross-validation strategies
 
